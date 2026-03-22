@@ -1,7 +1,7 @@
 {
   "name": "Mon Repo Scarlet",
   "identifier": "com.rafael.repo",
-  "source": "https://tonsite.com/repo.json",
+  "source": "https://raw.githubusercontent.com/Fifoudu388/scarlet/refs/heads/main/repo.json",
   "apps": [
     {
       "name": "eeveespotify",
