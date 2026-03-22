@@ -1,1 +1,16 @@
-
+{
+  "name": "Mon Repo Scarlet",
+  "identifier": "com.rafael.repo",
+  "source": "https://tonsite.com/repo.json",
+  "apps": [
+    {
+      "name": "eeveespotify",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "9.1.0",
+      "downloadURL": "https://tonsite.com/apps/spotify.ipa",
+      "iconURL": "https://tonsite.com/icons/spotify.png",
+      "developerName": "Spotify",
+      "localizedDescription": "Spotify modifié avec premium"
+    }
+  ]
+}
