@@ -4,7 +4,7 @@
   "source": "https://raw.githubusercontent.com/Fifoudu388/scarlet/refs/heads/main/repo.json",
   "apps": [
     {
-      "name": "eeveespotify",
+      "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "version": "9.1.0",
       "downloadURL": "https://github.com/Fifoudu388/spotifyipa/releases/download/V9.1.0/EeveeSpotify-9.1.0-patched.ipa",
