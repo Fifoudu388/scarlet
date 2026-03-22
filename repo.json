@@ -7,8 +7,8 @@
       "name": "eeveespotify",
       "bundleIdentifier": "com.spotify.client",
       "version": "9.1.0",
-      "downloadURL": "https://tonsite.com/apps/spotify.ipa",
-      "iconURL": "https://tonsite.com/icons/spotify.png",
+      "downloadURL": "https://github.com/Fifoudu388/spotifyipa/releases/download/V9.1.0/EeveeSpotify-9.1.0-patched.ipa",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSck1qtZCxEN54XdzSQKpcTHo6DFdA9vSjIxNBjoY9PIA&s",
       "developerName": "Spotify",
       "localizedDescription": "Spotify modifié avec premium"
     }
