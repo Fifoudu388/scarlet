@@ -11,6 +11,15 @@
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSck1qtZCxEN54XdzSQKpcTHo6DFdA9vSjIxNBjoY9PIA&s",
       "developerName": "Spotify",
       "localizedDescription": "Spotify modifié avec premium"
+    },
+    {
+      "name": "PhotoRoom",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "version": "2026.11.01",
+      "downloadURL": "https://archive.org/download/com.dr1ven.eraser_2026.11.01_und3fined/com.dr1ven.eraser_2026.11.01_und3fined.ipa",
+      "iconURL": "",
+      "developerName": "dr1ven",
+      "localizedDescription": "PhotoRoom modifié avec premium"
     }
   ]
 }
