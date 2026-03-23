@@ -20,15 +20,6 @@
       "iconURL": "https://fastsign.dev/tg-icon/binnichtaktivsipas/135191.png",
       "developerName": "dr1ven",
       "localizedDescription": "PhotoRoom modifié avec premium"
-    },
-    {
-      "name": "Papers, Please",
-      "bundleIdentifier": "co.3909.papersplease",
-      "version": "1.4.12",
-      "downloadURL": "https://archive.org/download/papers-please-v-1.4.12/Papers_Please_v1.4.12.ipa",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBM5209FhPBIyU_hGx-F8L6W9maLTmN1zzbf1j1SE15w&s=10",
-      "developerName": "PapersPlease",
-      "localizedDescription": "Jeux débloqué"
     }
   ]
 }
